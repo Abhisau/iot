@@ -59,10 +59,15 @@ Please contribute. We are primarily interested in the following:
 After installing, please see the following areas to learn more:
 
 * [.NET IoT 101 (Jan 2020)](https://channel9.msdn.com/Series/IoT-101) - An introduction series on how to create .NET IoT applications with a Raspberry Pi.
-* [Introduction](https://docs.microsoft.com/en-us/dotnet/iot/) - Quickstart Guides with a few examples
+
+* [Introduction](https://docs.microsoft.com/en-us/dotnet/iot/) - Quickstart Guides with a few examples.
+
 * [API Documentation](https://docs.microsoft.com/en-us/dotnet/api/?view=iot-dotnet-1.3) - API documentation for all public interfaces. Be sure to choose the library version you are using. 
+
 * [Hardware Documentation](Documentation/README.md) - Resources related to electronics, devices, vendors, software and other IoT topics.
+
 * [Samples](samples/README.md) - Step-by-step instructions on building your first app.
+
 * [Roadmap](Documentation/roadmap.md) - Areas planned or currently being worked on.
 
 All bindings (src/devices) contains a `samples` folder where you will find examples on how to use each of the devices, sensor, displays and other components.
@@ -71,7 +76,9 @@ All bindings (src/devices) contains a `samples` folder where you will find examp
 
 ![select branch](./Documentation/images/selectbranch.jpg)
 
-Once you have selected the right branch, you can browse the repository. The main branch contains code that is always the latest and may not been yet released to a package. So if you are using the 1.2 package, please select 1.2 tag before browsing the source code.
+Once you have selected the right branch, you can browse the repository. The main branch contains code that is always the latest and may not been yet released to a package. 
+
+So if you are using the 1.2 package, please select 1.2 tag before browsing the source code.
 
 ### Tutorials
 
